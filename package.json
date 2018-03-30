@@ -1,0 +1,23 @@
+{
+  "name": "stack-tdd-bola-neve",
+  "version": "1.0.0",
+  "description": "Overview sobre a stack escolhida para praticas do TDD nos projetos do Bola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeblua/stack-tdd-bola-neve.git"
+  },
+  "keywords": [
+    "TDD",
+    "JS"
+  ],
+  "author": "Marcelo Blois <mdeblua@gmail.com> (https://www.mdeblua.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdeblua/stack-tdd-bola-neve/issues"
+  },
+  "homepage": "https://github.com/mdeblua/stack-tdd-bola-neve#readme"
+}
