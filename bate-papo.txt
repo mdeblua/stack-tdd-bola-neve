@@ -1,0 +1,11 @@
+CONCEITO DE LINTER E TOOLS
+==================
+jshint = inicio
+jslint = Sucessor
+jscs = comecou a valer a pena, pex., ja tabalhava com preset
+eslint, juncao do jscs com o eslint, hoje so eslint
+
+Finalidade => por mais que 1000 pessoas codifiquem em um mega projeto... quem ler deve ter a impressao
+que somente uma "unica" pessoa escreveu todo o codigo.
+
+
