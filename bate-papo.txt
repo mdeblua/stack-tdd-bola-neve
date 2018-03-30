@@ -8,4 +8,10 @@ eslint, juncao do jscs com o eslint, hoje so eslint
 Finalidade => por mais que 1000 pessoas codifiquem em um mega projeto... quem ler deve ter a impressao
 que somente uma "unica" pessoa escreveu todo o codigo.
 
+UTILIZACAO
+==========
+* Eslint com preset do airbnb e Plugin eslint
+* Utilizar editorconfig para padronização de codigo escrito por diferentes pessoas, plaradormas, etc e plugin
+
+
 

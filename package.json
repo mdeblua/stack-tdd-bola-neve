@@ -4,7 +4,10 @@
   "description": "Overview sobre a stack escolhida para praticas do TDD nos projetos do Bola",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint *.js",
+    "lint-fix": "./node_modules/.bin/eslint *.js --fix"
+
   },
   "repository": {
     "type": "git",
@@ -19,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/mdeblua/stack-tdd-bola-neve/issues"
   },
-  "homepage": "https://github.com/mdeblua/stack-tdd-bola-neve#readme"
+  "homepage": "https://github.com/mdeblua/stack-tdd-bola-neve#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  }
 }
